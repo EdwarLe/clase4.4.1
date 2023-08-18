@@ -1,6 +1,12 @@
 const Shandon = () => {
   return (
-    <div>Shandon</div>
-  )
-}
-export default Shandon
+    <div>
+      <div>Shandon Vasquez</div>
+      <div>
+        <img src="/public/Shandon.jpg" alt="Shandon Vasquez" />
+      </div>
+    </div>
+  );
+};
+
+export default Shandon;
