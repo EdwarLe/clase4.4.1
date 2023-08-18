@@ -7,6 +7,7 @@ import Shandon from './components/Shandon'
 import Kevin from './components/Kevin'
 import JuanCarlos from './components/JuanCarlos'
 import Alan from './components/Alan'
+import Edwar from './Edwar'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,6 +19,7 @@ function App() {
       <Kevin />
       <JuanCarlos />
       <Alan />
+      <Edwar />
     </>
   )
 }
